@@ -1,0 +1,6 @@
+//Doi user truoc khi commit
+git config --global user.name "hapo-hieupm"
+git config --global user.email "hieu.pm@haposoft.com"
+//check user đang commit
+git config --list
+
